@@ -1,8 +1,9 @@
-# 📊 EPFO Workforce Analytics Platform
+# EPFO Workforce Analytics
+
+📊 **Interactive Labor Market Forecasting and Simulation Using EPFO Data**  
+Built by **Rohith Surya M** | [GitHub](https://github.com/RohithSuryaM)
 
 A Streamlit-based interactive analytics dashboard for analyzing, forecasting, and simulating labor market trends using Indian EPFO (Employees' Provident Fund Organization) data.
-
-![screenshot](screenshot.png) <!-- Add a screenshot of your app here -->
 
 ---
 
@@ -40,6 +41,18 @@ This project provides a complete data-driven solution to understand formal workf
 - Comparative visualization with base vs simulated scenario
 
 ---
+
+## 🛡 License
+
+This project is licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**  
+Please read the [`LICENSE`](./LICENSE) file for more details.
+
+---
+
+## 👤 Author
+
+Made with 💡 by **Rohith Surya M**  
+- 📫 [GitHub Profile](https://github.com/RohithSuryaM)
 
 ## 🛠️ Tech Stack
 

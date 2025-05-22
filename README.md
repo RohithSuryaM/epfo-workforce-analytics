@@ -54,6 +54,8 @@ Please read the [`LICENSE`](./LICENSE) file for more details.
 Made with 💡 by **Rohith Surya M**  
 - 📫 [GitHub Profile](https://github.com/RohithSuryaM)
 
+---
+
 ## 🛠️ Tech Stack
 
 | Component        | Technology                  |

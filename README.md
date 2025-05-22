@@ -42,10 +42,9 @@ This project provides a complete data-driven solution to understand formal workf
 
 ---
 
-## 🛡 License
+## 📄 License
 
-This project is licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**  
-Please read the [`LICENSE`](./LICENSE) file for more details.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
